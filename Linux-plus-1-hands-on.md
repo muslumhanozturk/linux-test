@@ -1,29 +1,3 @@
-# Hands-on Linux-01 : Managing Files in Linux
-
-Purpose of the this hands-on training is to teach the students how to manage files in Linux.
-
-## Learning Outcomes
-
-At the end of the this hands-on training, students will be able to;
-
-- Explain files in linux system.
-
-- Create and edit files.
-
-- Work with file contents
-
-- Search files.
-
-## Outline
-
-- Part 1 - Working with File Contents
-
-- Part 2 - Searching Files
-
-## Part 1 - Working with File Contents
-
-- Create a folder and name it linux-lessons.
-
 ```bash
 mkdir linux-lessons
 cd linux-lessons
