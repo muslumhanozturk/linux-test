@@ -1,29 +1,3 @@
-# Hands-on Linux-02 : Linux Environment Variables
-
-Purpose of the this hands-on training is to teach the students how to use environment variables.
-
-## Learning Outcomes
-
-At the end of the this hands-on training, students will be able to;
-
-- explain environment variables.
-
-- understand Quoting with Variables.
-
-## Outline
-
-- Part 1 - Common Environment Variables & Accessing Variable
-
-- Part 2 - Path Variable
-
-- Part 3 - Quoting with Variables
-
-- Part 4 - Sudo Command
-
-## Part 1 - Common Environment/Shell Variables & Accessing Variable
-​
-- Difference between "env" and "printenv" commands.
-​
 ```bash
 env
 printenv
